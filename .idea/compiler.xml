@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Trump_Twitter_Analytics" />
+        <module name="TrumpAnalyser" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Trump_Twitter_Analytics" target="1.8" />
+      <module name="TrumpAnalyser" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
